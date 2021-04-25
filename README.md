@@ -3,6 +3,10 @@ a solution to play Nier remake in ultrawide.
 
 select desired aspect ratio's formated value here: https://www.wsgf.org/article/common-hex-values
 
+
+
+
+
 1.Run the script
 
 2.Download and install reshade into the game.
